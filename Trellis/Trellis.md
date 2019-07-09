@@ -1,4 +1,4 @@
-![Trellis Info-graphic](Trellis-Infographic.png)
+![Trellis Info-graphic](Media/Trellis-Infographic.png)
 
 # Introduction
 Trellis is a web-based configuration tool designed for large enterprise applications. It allows users to track and affect changes within and between
@@ -10,14 +10,16 @@ Trellis simplifies the process of managing OUAF configuration by:
 * Auditing changes to the configurations and alerting the user with details about the changes.
 * Tracking configuration changes to each environment by user and providing a robust “undo” capability
 
+
+
 ## Getting Started
 ### Compare
 Trellis takes daily configuration snapshots of all
 environments. This allows users to compare configuration
 against any environment from any snapshot. Users can:
 
-* [Compare the same environment](Compare/Same-Enviornment)
-* [Create a simple Excel output of comparison](Compare/Excell-Output)
+* [Create Snapshot Comparison](Compare/Comparing-Snapshots.md)
+* [Save Comparison as Excell File](Compare/Comparing-Snapshots.md#Download-As-Excell-Document)
 * [Program recurring tasks](Compare/Recurring-Tasks)
 * [Organize Activity](Compare/Organize-Activity)
 
@@ -27,7 +29,7 @@ A snapshot is taken before and after UI or database configuration changes are ma
 a customizable package that will apply those changes or a
 subset of them to other selected environments. Trellis can:
 
-* [Handle fields with environment specific data](Migrate/Handle-Fields)
-* [Select a subset of a comparison to move to another environment](Migrate/Move-Comparison-Subset)
-* [Apply, rollback and verify change packages](Migrate/Apply-Rollback)
-* [Export SQL for all changes](Migrate/Export-SQL)
+* [Handle fields with environment specific data](Migrate/Handle-Fields.md)
+* [Select a subset of a comparison to move to another environment](Migrate/Changed-Packages.md#Creating-a-Derived-Package)
+* [Apply, rollback and verify change packages](Migrate/Change-Packages.md)
+* [Export SQL for all changes](Migrate/Export-SQL.md)

@@ -1,4 +1,4 @@
-![Image](Myriad-Infographic.png)
+![Myriad Infographic](Media/Myriad-Infographic.png)
 ______
 ## Introduction
 Myriad is a project coordination and information dissemination tool that combines the best of Microsoft Excel, SharePoint, Microsoft Project and Slack. The program ensures every team member has access to up-to-date information about ll applications and environments, including their
