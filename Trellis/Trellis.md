@@ -1,4 +1,4 @@
-![Trellis Infographic](Trellis-Infographic.png)
+![Trellis Info-graphic](Trellis-Infographic.png)
 
 # Introduction
 Trellis is a web-based configuration tool designed for large enterprise applications. It allows users to track and affect changes within and between
@@ -29,5 +29,5 @@ subset of them to other selected environments. Trellis can:
 
 * [Handle fields with environment specific data](Migrate/Handle-Fields)
 * [Select a subset of a comparison to move to another environment](Migrate/Move-Comparison-Subset)
-* [Apply, rollback and verify change packages](Migrate/Same-Enviornment)
-* [Export SQL for all changes](Migrate/Same-Enviornment)
+* [Apply, rollback and verify change packages](Migrate/Apply-Rollback)
+* [Export SQL for all changes](Migrate/Export-SQL)
