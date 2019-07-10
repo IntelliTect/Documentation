@@ -1,2 +1,0 @@
-# Handling fields with environment specific data
-Sometimes the data contained in the database is enviornment specific, or has specific configuration. Tokens allow you to replace this data without creating chages to the database. For example, if there was a piece of data in your development enviornment used for configuration, and you didn't want that moved to the production enviornment. You can use tokens so the un-migrated data will not show up as a change when comparing snapshots.
