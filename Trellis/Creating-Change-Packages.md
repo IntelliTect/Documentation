@@ -20,19 +20,19 @@ In the data changes section, we can choose which table we want to keep changes f
 
 ---
 ## Changed Row Selection Screen
-Here we can select rows we want to keep. If we want to also select specific rows related to a table item, click the button that looks like a chain to proceed to the related table row selection screen.
+We can select rows we want to keep. If we want to also select specific rows related to a table item, click the button that looks like a chain to proceed to the related table row selection screen.
 
 <img src="Media/Migrate-Select-Changed-Rows.png" width="600">
 
 ---
 ## Related Row Selection Screen
-Here we can view the tables that have a relationship with this row. For each related table we can select all, none, or specific related rows to keep. By selecting any related rows, Trellis will automatically update the changed package overview screen with the tables and rows that are now selected.
+We can view the tables that have a relationship with this row. For each related table we can select all, none, or specific related rows to keep. By selecting any related rows, Trellis will automatically update the changed package overview screen with the tables and rows that are now selected.
 
 <img src="Media/Migrate-Select-Related-Rows.png" width="600">
 
 ---
 ## Saving the Change Package
-overAfter selecting "All" for the related tables above, the changed package details screen is updated. All we have to do to save the selected changes is click the "Save Package" button in the upprer right hand side of the header, and enter a name for the changes. In this case we named it "Test Package for BF". 
+After selecting "All" for the related tables above, the changed package details screen is updated. All we have to do to save the selected changes is click the "Save Package" button in the upprer right hand side of the header, and enter a name for the changes. In this case we named it "Test Package for BF". 
 
 <img src="Media/Migrate-Updated-Changed-Rows.png" width="600">
 

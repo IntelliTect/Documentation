@@ -14,7 +14,7 @@ Trellis simplifies the process of managing OUAF configuration by:
 
 ## Getting Started
 ### Compare
-Trellis makes it a breeze to compare configuration snapshots between different enviornments.
+Trellis makes it a breeze to compare configuration snapshots between different environments.
 
 * [Create Snapshot Comparison](Comparing-Snapshots.md)
 * [Create Change Package](Creating-Change-Packages.md)
@@ -22,11 +22,11 @@ Trellis makes it a breeze to compare configuration snapshots between different e
 * [Export to SQL](Download-Tokenized-Sql.md) 
 
 ### Migrate
-With Trellis, migrating changes is simple. it’s easy to create change packages that you can then migrate to any enviornment at any time. Trellis automatically creates a customizable package that will apply those changes or a subset of them to other selected environments.
+With Trellis, migrating changes is simple. it’s easy to create change packages that you can then migrate to any environment at any time. Trellis automatically creates a customizable package that will apply those changes or a subset of them to other selected environments.
 
 * [Handle fields with environment-specific data](Migrate/Handle-Fields.md) TODO
-* [Migrate changed packages](Migrate/Migrate-Changed-Packages.md#Creating-a-Derived-Package) TODO
-* [Apply, rollback and verify change packages](Migrate/Change-Packages.md) TODO
+* [Apply changed packages](Use-A-Package.md#Migrating-to-a-target) 
+* [Rollback change packages](Use-A-Package.md#Undo-Packages)
 
 ### Options and Configuration
 There are tons of customizable options to test out that will allow Trellis to work well with any project.

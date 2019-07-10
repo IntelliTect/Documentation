@@ -36,7 +36,7 @@ The package relationships section displays the two snapshots being compared. The
 
 ---
 ### Targeted Change Packages
-The targeted change packages section is used to move the changes to another enviornment. See [Migrate Changes To Another Enviornment](Migrate/Migrate-Changed-Packages.md#Migrating-Changes-to-Another-Environment) TODO for more information.
+The targeted change packages section is used to move the changes to another environment. See [Migrate Changes To Another Environment](Migrate/Migrate-Changed-Packages.md#Migrating-Changes-to-Another-Environment) TODO for more information.
 
 <img src="Media/Compare-Snapshots-Targeted-Packages.png" width="400">
 

@@ -9,4 +9,4 @@ This documentation provides information on Myriad by Intellitect.
 * [Project Planning](Getting-Started/Project-Planning.md)
 * [Team Coordination](Getting-Started/Team-Coordination.md)
 * [Repository Information](Getting-Started/Repository-Information.md)
-* [Status of Enviornments](Getting-Started/Enviornment-Status.md)
+* [Status of Environments](Getting-Started/Environment-Status.md)
