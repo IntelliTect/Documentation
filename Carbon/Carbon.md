@@ -1,13 +1,16 @@
-![Carbon Infographic](Media/Carbon-Infographic.svg)
+ ![Carbon Infographic](Media/Carbon-Infographic.svg)
 ______
 ## Introduction
-Carbon is an easy to utilize tool that allows rapid duplication of CCB and MDM accounts for training and testing. It is designed to simplify any project where identical or similar accounts are required. Carbon provides a simplified and consistent environment that students can use for practice multiple times, or enabling testers to replicate problematic accounts in a development environment allowing simple and streamlined approach to solving the issue.
+Carbon is used to replicate CCB and MDM accounts, or convert from one to the other. It makes it easy to copy or create accounts in groups up to 100 making it easy to set up training and testing environments. You can replicate accounts to create completely new accounts complete with a unique account number, premise, everything new keys etc. Or you can replicate accounts to create identical copies of the account with all the same data.
 
 ## Getting Started
 This documentation provides information on Carbon by Intellitect. 
-### Training
-Carbon allows trainers to create many copies of a single account from any environment quickly to allow all trainees to work with the same accounts in the same scenarios. 
-* [Training](Training.md)
-### Testing
-With Carbon, accounts can be replicated from production and between development and testing environments. You never have to determine problematic accounts in production. Simply replicate it in a test environment.
-* [Testing](Testing.md)
+### Options and Configuration
+* Get familiarized with the [Application Home Screen](Application-Home.md)
+* Set up your application with [Admin Pages](Admin-Pages.md)
+* Explore the database with [Schema Explorer](Schema-Explorer.md)
+
+
+### Replicating accounts
+* Copy single accounts with [Replication Jobs](Replication-Jobs.md)
+* Copy many accounts with [Uber Jobs](Uber-Jobs.md)

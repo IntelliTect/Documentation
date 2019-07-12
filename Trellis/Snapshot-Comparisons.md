@@ -51,7 +51,7 @@ This section displays the total number changes for each table changed between th
 The detailed changes section displays each row that was changed in the selected table. There are three ways the data is displayed
 * Added rows are highlighted in green. 
 * Deleted rows are highlighted in red. 
-* Updated rows show the updated column value highlighted in both red and green cooresponding to the previous and updated data.
+* Updated rows show the updated column value highlighted in both red and green corresponding to the previous and updated data.
   
 You can show or hide by change type, ie added, deleted, updated. You can also search the changes to find specific changes in the table. 
 

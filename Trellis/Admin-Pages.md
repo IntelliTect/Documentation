@@ -9,7 +9,7 @@ You are greeted with a list of options each of which has a Table and Cards colum
 ---
 # Setting up a Database
 To set up snapshotting of a database you must first have an Application Type and a Schema. Select the Database option from the Admin Page. 
-* Here is where you setup basic database information like the name and connection string. 
+* Here is where you setup basic database information like the name and Oracle connection string. An the format for the connection string is `data source="(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=[hostname])(Port=1521))(CONNECT_DATA=(SID=[SidOfDatabase)))“`  
 * The read only username and password are used as authentication to connect to the database.  
 * At the bottom you can take a snapshot immediately, schedule recurring snapshots, or test the database connection.
 
@@ -18,7 +18,7 @@ To set up snapshotting of a database you must first have an Application Type and
  ## Recurring Snapshots
  Recurring snapshots are used to automatically take a snapshot of a database daily. To schedule recurring snapshots,navigate to the bottom of the database admin page and select `Schedule Recurring Snapshots` and you will be prompted for whats called a "Cron String". 
  * The format of the Cron String is always `0 <minute> <hour> * *` where hour and minute make up the daily time to take the snapshot. Eg `0 30 11 * *` would setup the snapshot to be taken at 11:30 every day. 
- * Its a good idea to check the [Hangfire](#Hangfire) page to ensure the recurring snapshot is setup. 
+ * After the job is scheduled look at the [Hangfire](#Hangfire) page to ensure the recurring snapshot is setup and manage it. 
   
 
 # Schema Table Selector
@@ -34,6 +34,6 @@ Next select a database from the dropdown. A list of tables in the selected datab
  <img src="Media/Schema-Table-Selector-Enabling.png">
 
 # Hangfire
-Hangfire is used to run the underlying Trellis jobs. You can use this screen to view all jobs, recurring jobs, and and jobs that have failed. It is accessed from the `Hangfire` link on the admin page. 
-
- <img src="Media/Hangfire.png">
+Hangfire is used to run the underlying Trellis jobs accessed off the admin pages. You can use this screen to view all jobs, recurring jobs, and and jobs that have failed. You can also view a history graph of jobs ran in the past.
+If you select the `Recurring Jobs` tab, you can view all all the jobs that are scheduled. For each of these view useful information and even select a group and trigger them.
+ <img src="Media/Hangfire-Recurring-Jobs.png">

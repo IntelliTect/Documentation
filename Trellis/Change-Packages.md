@@ -3,14 +3,14 @@ Trellis can be used to create packages that represent all the changes changes be
 
 ## Brief Overview
 * Select the application you want to create a change package in
-* [Create a Comparison](Comparing-Snapshots.md) between the snapshots desired
+* [Create a Comparison](Snapshot-Comparisons.md) between the snapshots desired
 * Click the "Derive New Package" button in the upper righthand corner
 * Use the Data Changes section to select tables and rows to be saved in the change package
 * Click the "Save Package" button in the upper righthand corner and specify a name for the package
 
 ---
 ## Creating a Derived Package
-First you must [Create a Comparison](Comparing-Snapshots.md) if you haven't already. From the resulting comparison screen select the "Derive New Package" button in the upper right hand corner. This brings us to a changed package creation screen that allows us to select the exact changes we want to keep.
+First you must [Create a Comparison](Snapshot-Comparisons.md) if you haven't already. From the resulting comparison screen select the "Derive New Package" button in the upper right hand corner. This brings us to a changed package creation screen that allows us to select the exact changes we want to keep.
 
 ---
 ## Changed Package Overview Screen
