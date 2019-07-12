@@ -8,6 +8,11 @@ Trellis allows you to view the difference between two snapshots, or the differen
 * Click the "Compare Snapshots" button
 * The resulting screen will display all the changes between the target and source snapshots
 
+
+### Header
+The header is displayed at the top of the screen and contains information about the comparison including the snapshots compared, the time ranges for the comparison, and the number of rows changed. You can also download to [Excell](Download-as-Excell.md) or [Tokenized Sql](Download-Tokenized-Sql.md) from here.
+
+<img src="Media/Compare-Snapshots-Header.png">
 ---
 ## Selecting the Snapshots
 Start by opening the application you want to perform a comparison in. 
@@ -36,7 +41,7 @@ The package relationships section displays the two snapshots being compared. The
 
 ---
 ### Targeted Change Packages
-The targeted change packages section is used to move the changes to another environment. See [Migrate Changes To Another Environment](Migrate/Migrate-Changed-Packages.md#Migrating-Changes-to-Another-Environment) TODO for more information.
+The targeted change packages section is used to move the changes to another environment. See [Use a Package](Use-A-Package.md#Target-Environments) for more information on migrating data.
 
 <img src="Media/Compare-Snapshots-Targeted-Packages.png" width="400">
 
