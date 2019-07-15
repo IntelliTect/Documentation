@@ -4,11 +4,11 @@ Trellis allows you to view the difference between two snapshots, or the differen
 
 ## Brief Overview
 
-- Open an application containing snapshots you want to compare
-- Select the source database and the time stamp of when the snapshot was taken
-- Select the target database and the time stamp of when the snapshot was taken
-- Click the 'Compare Snapshots' button
-- The resulting screen will display all the changes between the target and source snapshots
+* Open an application containing snapshots you want to compare
+* Select the source database and the time stamp of when the snapshot was taken
+* Select the target database and the time stamp of when the snapshot was taken
+* Click the 'Compare Snapshots' button
+* The resulting screen will display all the changes between the target and source snapshots
 
 ### Header
 
@@ -70,9 +70,9 @@ This section displays the total number of changes for each table changed between
 
 The detailed changes section displays each row that was changed in the selected table. There are three ways the data is displayed
 
-- Added rows are highlighted in green.
-- Deleted rows are highlighted in red.
-- Updated rows show the updated column value highlighted in both red and green corresponding to the previous and updated data.
+* Added rows are highlighted in green.
+* Deleted rows are highlighted in red.
+* Updated rows show the updated column value highlighted in both red and green corresponding to the previous and updated data.
 
 You can show or hide by change type, ie added, deleted, updated. You can also search the changes to find specific changes in the table.
 

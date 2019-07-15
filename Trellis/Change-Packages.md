@@ -4,11 +4,11 @@ Trellis can be used to create packages that represent all the changes between sn
 
 ## Brief Overview
 
-- Select the application you want to create a change package in
-- [Create a Comparison](Snapshot-Comparisons.md) between the snapshots desired
-- Click the `Derive New Package` button in the upper right-hand corner
-- Use the Data Changes section to select tables and rows to be saved in the change package
-- Click the `Save Package` button in the upper right-hand corner and specify a name for the package
+* Select the application you want to create a change package in
+* [Create a Comparison](Snapshot-Comparisons.md) between the snapshots desired
+* Click the `Derive New Package` button in the upper right-hand corner
+* Use the Data Changes section to select tables and rows to be saved in the change package
+* Click the `Save Package` button in the upper right-hand corner and specify a name for the package
 
 ---
 
