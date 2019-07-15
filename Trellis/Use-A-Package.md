@@ -1,10 +1,10 @@
 # Use a package 
 
-Trellis allows you to create change packages quickly, But what do you do with them afterward?
+Trellis allows you to create 'Change Packages' quickly, but what do you do with them afterward?
 
 ## Target Environments
 
-If you have package or snapshot, you can test it against other environments to determine if the other environment shares the changes with the selected package. You can then "Migrate" these changes to the specified database.
+If you have a package or snapshot, you can test it against other environments to determine if the other environment shares the changes with the selected package. You can then "Migrate" these changes to the specified database.
 
 First open the package by either creating or opening a [comparison](Snapshot-Comparisons.md) or [change package](Change-Packages)
 
@@ -14,7 +14,7 @@ Find the database you want to test against in the 'Targeted Change Packages' sec
 
 <img src="Media/Use-Package-Select-Targets.png" width="600">
 
-If we take a look at the Package Relationship section we wil notice in addition to the initial snapshot relationship, there is also an additional dashed line connecting our recently targeted database. Subsequent targeted databases will be appended to this with dotted lines. By targeting multiple different databases we can apply changes to many databases very quickly. 
+If we take a look at the 'Package Relationship' section we will notice in addition to the initial snapshot relationship, there is an additional dashed line connecting our recently targeted database. Subsequent targeted databases will be appended to this with dotted lines. By targeting multiple different databases we can apply changes to many databases very quickly. 
 
 <img src="Media/Use-Package-Target-Package-Relationship.png" width="600">
 
@@ -27,9 +27,9 @@ While targets can be used to test changes between environments, usually that job
 
 # Undo Packages
 
-Saving change packages is useful, but sometimes we need to undo the changes we make. We can save 'Undo Packages' that allow us to undo everything we did in a change package. 
+Saving 'Change Packages' is useful, but sometimes we need to undo the changes we make. We can save 'Undo Packages' that allow us to undo everything we did in a 'Change Package'. 
 
-To create an undo package all we have to do is open the specified change package or comparison, and select the `Derive Inverse (Undo) Changes` button in the upper right hand corner of the header. This will create a package that does the exact opposite from the selected changes. If you then [target a database](#Target-Environments) and apply the changes, all the changes outlined in the currently open change package will be undone. For example, if we selected the 'CCBINT' database from the package relationships section in the ["select target"](#Select-Target) example above and created an undo package, by apply those changes we effectively undo any of the changes first applied when we targeted CCBINT from the change package that we were working with.
+To create an undo package all we have to do is open the specified change package or comparison, and select the `Derive Inverse (Undo) Changes` button in the upper right hand corner of the header. This will create a package that does the exact opposite from the selected changes. If you then [target a database](#Target-Environments) and apply the changes, all the changes outlined in the currently open change package will be undone. For example, if we selected the "CCBINT" database from the package relationships section in the ["select target"](#Select-Target) example above and created an undo package, by apply those changes we effectively undo any of the changes first applied when we targeted CCBINT from the 'Change Package' that we were working with.
 
 # Downloading a Snapshot
 

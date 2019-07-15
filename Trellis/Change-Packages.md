@@ -7,7 +7,7 @@ Trellis can be used to create packages that represent all the changes between sn
 * Select the application you want to create a change package in
 * [Create a Comparison](Snapshot-Comparisons.md) between the snapshots desired
 * Click the `Derive New Package` button in the upper right-hand corner
-* Use the Data Changes section to select tables and rows to be saved in the change package
+* Use the 'Data Changes' section to select tables and rows to be saved in the change package
 * Click the `Save Package` button in the upper right-hand corner and specify a name for the package
 
 ---
@@ -28,7 +28,7 @@ In the data changes section, we can choose which table we want to keep changes f
 
 ## Changed Row Selection Screen
 
-We can select rows we want to keep. If we want to also select specific rows related to a table item, click the button that looks like a chain to proceed to the related table row selection screen.
+We can select rows we want to keep. If we also want to select specific rows related to a table item, click the button that looks like a chain to proceed to the related table row selection screen.
 
 <img src="Media/Migrate-Select-Changed-Rows.png" width="600">
 
@@ -36,7 +36,7 @@ We can select rows we want to keep. If we want to also select specific rows rela
 
 ## Related Row Selection Screen
 
-We can view the tables that have a relationship with this row. For each related table we can select all, none, or specific related rows to keep. By selecting any related rows, Trellis will automatically update the changed package overview screen with the tables and rows that are now selected.
+We can view the tables that have a relationship with this row. For each related table we can select all, none, or specific related rows to keep. By selecting any related rows Trellis will automatically update the changed package overview screen with the tables and rows that are now selected.
 
 <img src="Media/Migrate-Select-Related-Rows.png" width="600">
 
@@ -56,7 +56,7 @@ At the overview of the package, but instead of the changes being between 2 snaps
 
 <img src="Media/Migrate-Saved-Package-Overview.png" width="600">
 
-Notice we are looking at different data than the [initial comparison](#Changed-Package-Overview-Screen). In the 'Package Relationships' section, it shows the changes that we saved in addition to the two snapshots initially compared. The tables in the Data Changes section are only the ones we saves into the package named "Test Package for BF".
+Notice we are looking at different data than the [initial comparison](#Changed-Package-Overview-Screen). In the 'Package Relationships' section, it shows the changes that we saved in addition to the two snapshots initially compared. The tables in the 'Data Changes' section are only the ones we saved into the package named "Test Package for BF".
 
 ---
 

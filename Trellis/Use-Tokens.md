@@ -1,6 +1,6 @@
 # Using Tokens
 
-Tokens are used to manage environment-specific data within databases. The values saved in tokens will not show up as changes when performing a comparison or creating a change package. Why use them? Sometimes database tables hold data that are specific to the environment they are ran in. For example, a hostname or IP address are values that are commonly found in databases. But if you have an environment for Windows, and another for Linux and they are identical other than these values, It makes it difficult to keep updated with one another without having to manage the specific data being updated.
+Tokens are used to manage environment-specific data within databases. The values saved in tokens will not show up as changes when performing a comparison or creating a 'Change Package'. Why use them? Sometimes database tables hold data that are specific to the environment they are ran in. For example, a hostname or IP address are values that are commonly found in databases. But if you have an environment for Windows, and another for Linux that are identical other than these values, it is difficult to keep the two updated without having to manage the specific data being updated.
 
 # Adding Tokens
 
