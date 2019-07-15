@@ -15,7 +15,7 @@ You are greeted with a list of options each of which has a Table and Cards colum
 To set up snapshotting of a database you must first have an Application Type and a Schema. Select the Database option from the Admin Page.
 
 * Here is where you setup basic database information like the name and Oracle connection string. The connection string should be in this format: `data source="(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=[hostname])(Port=1521))(CONNECT_DATA=(SID=[SidOfDatabase)))“`
-* The read only username and password fiels are used to authenticate a connection to the database.
+* The read-only username and password fields are used to authenticate a connection to the database.
 * At the bottom you can take a snapshot immediately, schedule recurring snapshots, or test the database connection.
 
  <img src="Media/Setup-A-Database.png">

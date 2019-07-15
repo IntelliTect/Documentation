@@ -30,7 +30,7 @@ Trellis makes it a breeze to compare configuration snapshots between different e
 
 * [Create Snapshot Comparison](Snapshot-Comparisons.md)
 * [Create Change Package](Change-Packages.md)
-* [Export as Excell File](Download-as-Excell)
+* [Export as Excel File](Download-as-Excel.md)
 * [Export to SQL](Download-Tokenized-Sql.md)
 
 ### Migrate

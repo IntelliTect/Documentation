@@ -12,7 +12,7 @@ Trellis allows you to view the difference between two snapshots, or the differen
 
 ### Header
 
-The header is displayed at the top of the screen and contains information about the comparison including the snapshots compared, the time ranges for the comparison, and the number of rows changed. You can also download to [Excel](Download-as-Excell.md) or [Tokenized Sql](Download-Tokenized-Sql.md) from here.
+The header is displayed at the top of the screen and contains information about the comparison including the snapshots compared, the time ranges for the comparison, and the number of rows changed. You can also download to [Excel](Download-as-Excel.md) or [Tokenized Sql](Download-Tokenized-Sql.md) from here.
 
 ## <img src="Media/Compare-Snapshots-Header.png">
 
@@ -36,7 +36,7 @@ After the package changes are found, the screen will update showing the changes.
 
 ### Header
 
-The header is displayed at the top of the screen and contains information about the comparison including the snapshots compared, the time ranges for the comparison, and the number of rows changed. You can also download to [Excel](Download-as-Excell.md) or [Tokenized Sql](Download-Tokenized-Sql.md) from here.
+The header is displayed at the top of the screen and contains information about the comparison including the snapshots compared, the time ranges for the comparison, and the number of rows changed. You can also download to [Excel](Download-as-Excel.md) or [Tokenized Sql](Download-Tokenized-Sql.md) from here.
 
 <img src="Media/Compare-Snapshots-Header.png">
 

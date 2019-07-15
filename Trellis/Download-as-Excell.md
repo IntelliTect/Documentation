@@ -8,8 +8,8 @@ While Trellis makes it easy to view and track changes in many different environm
 
 Now you have a concise, easily transferable copy of all the changes.
 
-<img src="Media/Excell-Changes.png" width="600">
+<img src="Media/Excel-Changes.png" width="600">
 
 By selecting a table you can see specific row changes highlighted by change type.
 
-<img src="Media/Excell-Table-Changes.png" width="600">
+<img src="Media/Excel-Table-Changes.png" width="600">
