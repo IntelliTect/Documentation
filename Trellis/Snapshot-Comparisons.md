@@ -7,7 +7,7 @@ Trellis allows you to view the difference between two snapshots, or the differen
 * Open an application containing snapshots you want to compare
 * Select the source database and the time stamp of when the snapshot was taken
 * Select the target database and the time stamp of when the snapshot was taken
-* Click the 'Compare Snapshots' button
+* Click the `Compare Snapshots` button
 * The resulting screen will display all the changes between the target and source snapshots
 
 ### Header
