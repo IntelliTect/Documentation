@@ -11,7 +11,13 @@ In the Pending section you can finish an event preventing its status from impact
 
 ---
 ## Applications
-This section on the right hand side of the screen lists all the applications for this environment. You can view notes as well as view any links for the application. You can enable website status icons that indicate if the website is currently accessible. You can configure the environment to automatically change event statuses if a URL goes from accessible to inaccessible. This allows a history to build automatically, as well as change the status of the entire environment.
+This section on the right hand side of the screen lists all the applications for this environment. You can view notes as well as view any links for the application. You can enable website status icons that indicate if the website is currently accessible. You can configure the environment to automatically change event statuses if a URL goes from accessible to inaccessible. This allows a history to build automatically, as well as change the status of the entire environment. To learn more visit [Applications](Applications.md),
+
+### Edit Applications
+By clicking the `Edit Applications` button located in the upper right-hand corner of the applications list, you can edit the applications set up to this environment. At the top above the list you can see the tools you can use. There is a `Create` button that lets you add a new application to this environment. The `Make Editable` button make every field in the applications list editable. The `↓ CSV` button allows you to download the list of applications as a csv file. Conversely the `↑ CSV` button lets you upload applications using a local csv file. This makes it easy to make environments that contain the same applications as other environments. Lastly the search box lets you search the applications for the one specified.  
+
+<img src="Media/Environments-Edit-Applications.png">
+
 
 ---
 ## Environment Details
