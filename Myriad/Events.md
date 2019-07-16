@@ -1,5 +1,5 @@
 # Events
-Events are the core of Myriad. They allow users to coordinate when things will happen for each environment. An event usually contains tasks that detail the exact steps needed to complete the event. Only proper authorized users can edit events or an events tasks. For many people this serves as an easy way to see what they need to do and when it needs done. You can also send email notifications to everyone that has an assigned task so users are always up to date.
+Events are the core of Myriad. They allow users to coordinate when things will happen for each [application](Applications.md). An event usually contains tasks that detail the exact steps needed to complete the event. Only proper authorized users can edit events or an events tasks. For many people this serves as an easy way to see what they need to do and when it needs done. You can also send email and even text notifications to everyone that has an assigned task so users are always up to date.
 
 ## Viewing Events
 To view an event simply click it from the location you see it. Here is where you can configure events. 
@@ -9,7 +9,7 @@ To view an event simply click it from the location you see it. Here is where you
 ## Details
 In the top left of the event screen you can see details about the event. Here you can view any of the high level details about the event including the status, status notes, the schedule and any systems that are impacted by this event. The scheduled end time is shown here, any updates to the scheduled completion of tasks will be reflected in this time as well. 
 
-There is also buttons that allow the user to edit the event, add status notes, or open the chat. If an event is not currently running, you can start the event. This will cause the event's impact and status to effect the environments impact and status. 
+There is also buttons that allow the user to edit the event, add status notes, or open the [chat](Chat.md). If an event is not currently running, you can start the event. This will cause the event's impact and status to effect the environments impact and status. 
 
 ---
 ## Editing Events
@@ -21,7 +21,7 @@ If the event is running, you can set up auto notification here, or mute the curr
 <img src="Media/Events-Edit.png" width="400">
 
 ### Work Items
-Myriad has an integration with Microsoft Azure Devops that allows you to add work items from Devops to events. To add new work items you first must go to the edit event screen. From here there is an `Add Work Items Button` that opens the work item section. 
+Myriad has an integration with Microsoft Azure Devops that allows you to add work items from Devops to events. To add new work items you first must go to the edit event screen. From here there is an `Add Work Items` button that opens the work item section. 
 
 This is a simple area that lets you add work items by the Azure Id. You can select either CC&B or MAX system to add the item to. Multiple work items can be added at once by entering them as a comma separated list. Any existing work items show up here and can be removed easily by clicking the red X. The state of the work item is usually set to "Added" but sometimes it may be useful to remove a work item from the environment by having an event.
 
