@@ -16,7 +16,7 @@ To create a new application type navigate to the application type list and selec
 
 ---
 ## Applications
-Applications are the reason we use Myriad. They are the things we are building and maintaining. Each application has types, events, and work items etc. When you first click the `Applications` button from the admin page, you are presented a table of all applications you have in Myriad similar to the application type list above. Here you can see each applications high level information like name, environment, type, hosts, versions, owners, as well has buttons for `Application Plugins`, `Work Item Associations`, and `Test Runs` each of which will bring you to the respective lists filtered for the specified application type. These lists can also be accessed from the admin page in an unfiltered form.
+[Applications](Applications.md) are the reason we use Myriad. They are the things we are building and maintaining. Each application has types, events, and work items etc. When you first click the `Applications` button from the admin page, you are presented a table of all applications you have in Myriad similar to the application type list above. Here you can see each applications high level information like name, environment, type, hosts, versions, owners, as well has buttons for `Application Plugins`, `Work Item Associations`, and `Test Runs` each of which will bring you to the respective lists filtered for the specified application type. These lists can also be accessed from the admin page in an unfiltered form.
 
 To create a new application to be managed by Myriad, you must have administrator privileges. First make sure you have an application type defined, then select the `+ Create` button located above the application list found off of the admin page. Simply enter the fields and any additional information like work items and that it, you can now set up [events](Events.md) to get to work.
 
@@ -37,7 +37,7 @@ The application user role is used to give privileges to specific users. By adjus
 
 ---
 ## Environment
-The environment admin page is used when you need to create a new environment in Myriad. Navigate to it by selecting the `Environment` link on the main admin page. Any existing environments will be displayed here along with their basic information like description, release version and owner.
+The environment admin page is used when you need to create a new [environment](Environments.md) in Myriad. Navigate to it by selecting the `Environment` link on the main admin page. Any existing environments will be displayed here along with their basic information like description, release version and owner.
 
 In the right-hand column for each existing item there is an `Action` dropdown that is populated with any commands available like 'Calender Event'. To the right of that there is an edit button that allows you to edit the details about the environment. The edit menu is the exact same as the add new environment that is opened by clicking the `+ Create` button located above the environment list. 
 

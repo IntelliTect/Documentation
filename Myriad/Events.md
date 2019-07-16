@@ -1,5 +1,5 @@
 # Events
-Events are the core of Myriad. They allow users to coordinate when things will happen for each environment. An event usually contains tasks that detail the exact steps needed to complete the event. Only proper authorized users can edit events or an events tasks. For many people this serves as an easy way to see what they need to do and when it needs done. You can also send email notifications to everyone that has an assigned task so users are always up to date.
+Events are the core of Myriad. They allow users to coordinate when things will happen for each [application](Applications.md). An event usually contains tasks that detail the exact steps needed to complete the event. Only proper authorized users can edit events or an events tasks. For many people this serves as an easy way to see what they need to do and when it needs done. You can also send email and even text notifications to everyone that has an assigned task so users are always up to date.
 
 ## Viewing Events
 To view an event simply click it from the location you see it. Here is where you can configure events. 
