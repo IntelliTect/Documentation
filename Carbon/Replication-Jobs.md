@@ -3,12 +3,12 @@
 
 ## Creating a Replication Job
 To get started configuring a replication job, you must first select an account. The easiest way to find an account to start with is to use the [search](Application-Home.md#Search) feature from the home screen.
-After you have selected an account to replicate you should see the start new run screen.
+After you have selected an account to replicate you should see the 'Start New Run' screen.
 <img src="Media/Replication-Job.png">
 
 ---
 ### Information Section
-The information section is located in the upper left hand corner of this page. It displays detailed information about this account. You can click the `edit` button to change things like the Team, Source Environment, Target Environment, and Starting Key. You can archive this account which will hide it from the interface. It cannot be permanently deleted as there may be other accounts that were cloned from this account.
+The 'Information Section' is located in the upper left-hand corner of this page. It displays detailed information about this account. You can click the `edit` button to change things like the Team, Source Environment, Target Environment, and Starting Key. You can archive this account which will hide it from the interface. It cannot be permanently deleted as there may be other accounts that were cloned from this account.
 
 ---
 ### Start New Run

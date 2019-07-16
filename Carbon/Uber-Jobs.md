@@ -10,7 +10,7 @@ Generally we want to create with new jobs.
 
 ### General Settings
 After selecting to create with new jobs we enter basic settings like Name, Team, Replication Procedure (which is almost always CCB & MDM) and the environments. The source environment is the database that contains the account you want to copy. Target is the database that the replicated accounts are inserted into.
-The 'Starting Keys' section is used to enter the source account numbers, and the name you want for the replication job. For example `1234567890 Test Account` will copy the account with that number from the source database and insert it into the target database. After you have the settings configured the way you want, click the `Save Jobs` button.
+The 'Starting Keys' section is used to enter the source account numbers, and the name you want for the replication job. For example "1234567890 Test Account" will copy the account with that number from the source database and insert it into the target database. After you have the settings configured the way you want, click the `Save Jobs` button.
 <img src="Media/Uber-Jobs-General-Properties.png">
 
 ### Starting the job
