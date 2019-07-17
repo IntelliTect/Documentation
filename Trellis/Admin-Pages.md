@@ -14,9 +14,9 @@ You are greeted with a list of options each of which has a 'Table' and 'Cards' c
 
 To set up snapshotting of a database you must first have an Application Type and a Schema. Select the `Database` option from the Admin Page.
 
-* Here is where you setup basic database information like the name and Oracle connection string. The connection string should be in this format: `data source="(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=[hostname])(Port=1521))(CONNECT_DATA=(SID=[SidOfDatabase)))“`
+* Here is where you set up basic database information like the name and Oracle connection string. The connection string should be in this format: `data source="(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=[hostname])(Port=1521))(CONNECT_DATA=(SID=[SidOfDatabase)))“`
 * The read-only username and password fields are used to authenticate a connection to the database.
-* At the bottom you can take a snapshot immediately, schedule recurring snapshots, or test the database connection.
+* At the bottom, you can take a snapshot immediately, schedule recurring snapshots, or test the database connection.
 
  <img src="Media/Setup-A-Database.png">
 
@@ -32,16 +32,16 @@ Recurring snapshots are used to automatically capture daily snapshots. To schedu
 The Trellis 'Schema Table Selector' allows you to configure which tables in a database are enabled for snapshotting.
 
 * To use the 'Schema Table Selector' you first need a [Database](#Create-a-Database).
-* You can then select the `Schema Table Selector` option on the right hand side of the screen.
+* You can then select the `Schema Table Selector` option on the right-hand side of the screen.
 * You are prompted to select a schema for a particular Application Type.
 
  <img src="Media/Schema-Table-Selector-Schema-Select.png">
 
-Next select a database from the dropdown. A list of tables in the selected database will appear. You can enable or disable these tables. If a table is enabled, it will be used in both automatic and manually triggered snapshots.
+Next, select a database from the dropdown. A list of tables in the selected database will appear. You can enable or disable these tables. If a table is enabled, it will be used in both automatic and manually triggered snapshots.
 <img src="Media/Schema-Table-Selector-Enabling.png">
 
 # Hangfire
 
 Hangfire is used to run the underlying Trellis jobs accessed off the admin pages. You can use this screen to view all jobs, recurring jobs, and failed jobs. You can also view a history graph of previously run jobs.
-If you select the 'Recurring Jobs' tab, you can view all all the jobs that have been scheduled as well as helpful relevant information.
+If you select the 'Recurring Jobs' tab, you can view all the jobs that have been scheduled as well as helpful relevant information.
 <img src="Media/Hangfire-Recurring-Jobs.png">

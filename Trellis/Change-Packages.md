@@ -14,7 +14,7 @@ Trellis can be used to create packages that represent all the changes between sn
 
 ## Creating a Derived Package
 
-First you must [Create a Comparison](Snapshot-Comparisons.md) if you haven't already. From the resulting comparison screen select the `Derive New Package` button in the upper right hand corner. This brings us to a changed package creation screen that allows us to select the exact changes we want to keep.
+First, you must [Create a Comparison](Snapshot-Comparisons.md) if you haven't already. From the resulting comparison screen, select the `Derive New Package` button in the upper right-hand corner. This brings us to a changed package creation screen that allows us to select the exact changes we want to keep.
 
 ---
 
@@ -44,7 +44,7 @@ We can view the tables that have a relationship with this row. For each related 
 
 ## Saving the Change Package
 
-After selecting `All` for the related tables above, the changed package details screen is updated. All we have to do to save the selected changes is click the `Save Package` button in the upper-right hand side of the header, and enter a name for the changes. In this case we named it "Test Package for BF".
+After selecting `All` for the related tables above, the changed package details screen is updated. All we have to do to save the selected changes is click the `Save Package` button in the upper right-hand side of the header, and enter a name for the changes. In this case, we named it "Test Package for BF".
 
 <img src="Media/Migrate-Updated-Changed-Rows.png" width="600">
 

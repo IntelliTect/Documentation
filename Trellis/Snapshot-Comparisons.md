@@ -5,14 +5,14 @@ Trellis allows you to view the difference between two snapshots, or the differen
 ## Brief Overview
 
 * Open an application containing snapshots you want to compare
-* Select the source database and the time stamp of when the snapshot was taken
-* Select the target database and the time stamp of when the snapshot was taken
+* Select the source database and the timestamp of when the snapshot was taken
+* Select the target database and the timestamp of when the snapshot was taken
 * Click the `Compare Snapshots` button
 * The resulting screen will display all the changes between the target and source snapshots
 
 ### Header
 
-The header is displayed at the top of the screen and contains information about the comparison including: snapshots compared, time ranges for the comparison, and the number of rows changed. You can also download to [Excel](Download-as-Excel.md) or [Tokenized Sql](Download-Tokenized-Sql.md) from here.
+The header is displayed at the top of the screen and contains information about the comparison including snapshots compared, time ranges for the comparison, and the number of rows changed. You can also download to [Excel](Download-as-Excel.md) or [Tokenized Sql](Download-Tokenized-Sql.md) from here.
 
 <img src="Media/Compare-Snapshots-Header.png">
 
@@ -74,6 +74,6 @@ The detailed changes section displays each row that was changed in the selected 
 * Deleted rows are highlighted in red.
 * Updated rows show the updated column value highlighted in both red and green corresponding to the previous and updated data.
 
-You can show or hide by change type. I.E: added, deleted, updated. You can also search the changes to find specific changes in the table.
+You can show or hide by change type. I.E: added, deleted, updated. You can also search for the changes to find specific changes in the table.
 
 <img src="Media/Compare-Snapshots-Expanded-Changes.png" width="400">
