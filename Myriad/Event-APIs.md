@@ -1,5 +1,5 @@
 # Event APIs
-Myriad supports an API to update events. This can be used to tie in other applications or for updating event status from a build script or from other automated tooling. The `Help` button at the top will display the application documentation. Selecting the `API docs` button will then show detailed information and examples.
+Myriad supports an API to update events. This can be used to tie in other applications or for updating event status from a build script or other automated tooling. The `Help` button at the top will display the application documentation. Selecting the `API Docs` button will then show detailed information and examples.
 
 For example, a build script for a lower environment might automatically:
 
@@ -12,7 +12,7 @@ For example, a build script for a lower environment might automatically:
 
 ---
 ## Accessing the API
-By making a POST to the URL `https://myriad.corp.com/api/event/AddUpdate` you can add, create, and edit events. There is a powershell module that allows users to perform these operations directly from the command line. The module can be downloaded from [here](http://localhost:30648/Help/DownloadPSScript).
+By making a POST to the URL `https://myriad.corp.com/api/event/AddUpdate` you can add, create, and edit events. There is a PowerShell module that allows users to perform these operations directly from the command line. The module can be downloaded from [here](http://localhost:30648/Help/DownloadPSScript).
 
 ---
 ## Example PowerShell Command
@@ -22,11 +22,11 @@ Creates and starts a new event for a CCB deployment to MOD with 3 work items:
 Adds a status note to the event that was just created:
 * `Push-MyriadEvent -EventId $event.eventId -Note "Work Continues"`
 
-Alternate way to add a status without access to the Event's ID:
+An alternate way to add a status without access to the Event's ID:
 * `Push-MyriadEvent -Environment MOD -EventType Deployment -Application 'CC&B' -Note "Work Continues"`
 
 Finishes the event:
 * `Push-MyriadEvent -EventId $event.eventId -Status Finish`
 
-Alternate way to finish the same event without access to the Event's ID:
+An alternate way to finish the same event without access to the Event's ID:
 * `Push-MyriadEvent -Environment MOD -EventType Deployment -Application 'CC&B' -Status Finish`
