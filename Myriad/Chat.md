@@ -1,5 +1,5 @@
 # Chat Section
-Myriad has a chat feature that allows a simple way to notify your team about current events and progress. You can open chat by using the `Chat` button in the details section when looking at a specific event. The number in parenthesis inside the button represents the number of messages within the chat. A nice feature about Myriad's chat is that unlike many other enterprise chat solutions, it is persistent making it very difficult for people to catch up on missed items. 
+Myriad has a chat feature that allows a simple way to notify your team about current events and progress. You can open chat by using the `Chat` button in the details section when viewing a specific event. The number in parenthesis inside the button represents the number of messages within the chat. A nice feature about Myriad's chat is that unlike many other enterprise chat solutions, it is persistent making it very difficult for people to catch up on missed items. 
 
 <img src="Media/Chat-Open.png" width="400">
 

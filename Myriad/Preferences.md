@@ -9,7 +9,7 @@ The color of your avatar can also be changed here. Your avatar is used withing t
 
 ---
 ## Environment Preferences
-When you view the [Status Overview Page](Status-Overview.md) the environments are listed in a particular order. Initially it uses default order, but you can change that here. The lower the order number the higher in the list it will appear. It is useful to space out your manual orders to allow for easier changes in the future. Ie if you have the orders 1,2,3 and you want to put something first, you now have to increment every environment. Where as ordering with 100,200,300 you know can simply make the one you want to first appear 50. In this section you can also choose to hide environments you don't want displayed.  
+When you view the [Status Overview Page](Status-Overview.md) the environments are listed in a particular order. Initially it uses default order, but you can change that here. The lower the order number the higher in the list it will appear. It is useful to space out your manual orders to allow for easier changes in the future. I.E: if you have the orders 1,2,3 and you want to put something first, you now have to increment every environment. Where as ordering with 100,200,300 you know can simply make the one you want to first appear 50. In this section you can also choose to hide environments you don't want displayed.  
 
 ---
 ## Subscriptions

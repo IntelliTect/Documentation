@@ -10,7 +10,7 @@ The title bar displays the page you are currently working on as well as how long
 
 ---
 ## Environment List
-The entire rest of the screen is made up of a list of environments you have configured in Myriad. For each environment you can view the name, status, notes(may include the type of production and location). The events column displays events that are either ongoing or are upcoming. The target and schedule columns display when the event is going to take place. The links/contacts column are just convenience links to individual tables and shows their status.
+The entire rest of the screen is made up of a list of environments you have configured in Myriad. For each environment you can view the name, status, notes(may include the type of production and location). The events column displays events that are either ongoing or are upcoming. The target and schedule columns display when the event is going to take place. The links/contacts column provides a convenient location for links to individual tables and their status.
 
 ---
 ### Status

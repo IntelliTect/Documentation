@@ -1,5 +1,5 @@
 # Timeline Roadmap
-The Myriad timeline roadmap is used to view high level events for each environment in a simple and easy to coordinate view. It is most useful for eliminating most of the noise associated with all the data and events in your applications. Phases and some individual data points can be seen. You can  You can access the timeline by selecting the `Timeline` menu option in the tool bar at the top. 
+The Myriad timeline roadmap is used to view high level events for each environment in a simple and easy to coordinate view. It is most useful for eliminating most of the noise associated with all the data and events in your applications. Phases and some individual data points can be seen. You can access the timeline by selecting the `Timeline` menu option in the tool bar at the top. 
 
 <img src="Media/Timeline-Road-Map.png">
 

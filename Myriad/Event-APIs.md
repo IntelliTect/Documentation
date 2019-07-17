@@ -1,5 +1,5 @@
 # Event APIs
-Myriad supports an API to update events. This can be usd to tie in other applications or for updating event status from a build script or from other automated tooling. The `Help` button at the top will display the application documentation. Selecting the `API docs` button will then show detailed information and examples.
+Myriad supports an API to update events. This can be used to tie in other applications or for updating event status from a build script or from other automated tooling. The `Help` button at the top will display the application documentation. Selecting the `API docs` button will then show detailed information and examples.
 
 For example, a build script for a lower environment might automatically:
 

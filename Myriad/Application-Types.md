@@ -1,11 +1,11 @@
 # Application Types
-In Myriad, any application must be a specific application type. This allows you to coordinate where each implementation of an applications is. To add an application type do so in the [admin pages](A)
+In Myriad, any application must be a specific application type. This allows you to coordinate where each implementation of an application is. To add an application type do so in the [admin pages](A)
 
 <img src="Media/Application-Types.png">
 
 ---
 ## Applications by Environment 
-Located on the right-hand side of the application types screen, this graph displays what applications are contained in each environment providing a simple and concise way to view where applications are. This can be extremely useful, If you have multiple applications in an environment that share resources or Urls. If one application has a problem with the shared resource, you can use this graph to determine other applications that may have the same problem.
+Located on the right-hand side of the application types screen, this graph displays what applications are contained in each environment. This provides a simple and concise way to view where applications are. This can be extremely useful, if you have multiple applications in an environment that share resources or Urls. If one application has a problem with the shared resource, you can use this graph to determine other applications that may have the same problem.
 
 ---
 ## Application Types List

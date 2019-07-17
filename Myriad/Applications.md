@@ -11,14 +11,14 @@ To open an application and view its details, you can find and click the applicat
 ### Events
 Similarly to the environment screen, the events list is on the left hand side of the screen. It is used to view and edit events that are in this environment. At the top of the events section the pending events are displayed, and below those are the past events. You can search past events using the search bar provided. If you have the permissions you can edit these events or add new ones. Click an event to [view it in detail](Events.md).
 
-In the Pending section you can finish an event preventing its status from impacting the status of the environment. In the past events section you can start events and they will start effecting the status of the environment. Learn more about [events](Events.md).
+In the 'Pending' section you can finish an event preventing it's status from impacting the status of the environment. In the 'Past Events' section you can start events and they will start affecting the status of the environment. Learn more about [events](Events.md).
 
 ---
 ### Details
-The detail section provides details on this particular system. All the basic information is supplied at the top including the application and environment names, the versions, and owners. Below the basic information, any plugins enabled for the application are listed. In this example there is a plugin configured that tests urls and makes a status indicator next to them in the application screen. See more on [Plugins](#Plugins) at the bottom of this page.
+The 'Detail' section provides details on this particular system. All the basic information is supplied at the top including the application and environment names, the versions, and owners. Below the basic information, any plugins enabled for the application are listed. In this example there is a plugin configured that tests urls and makes a status indicator next to them in the application screen. See more on [Plugins](#Plugins) at the bottom of this page.
 
 ### Hosts
-Hosts can be seen and edited and is located below the Details pane. This is a completely optional section that allows users to enter specific information on hosts of the application. The name, IP address, computer processing used, and purpose can be changed here. It allows all the host information to be easily viewed with all the other application information. There can be host-specific plugins that allow more explicit control of the host.
+Hosts can be seen and edited and is located below the 'Details' pane. This is a completely optional section that allows users to enter specific information on hosts of the application. The name, IP address, computer processing used, and purpose can be changed here. It allows all the host information to be easily viewed with all the other application information. There can be host-specific plugins that allow more explicit control of the host.
 
 <img src="Media/Applications-View-Hosts.png" width="400">
 
@@ -36,11 +36,11 @@ To edit the details on an application you must first have administrator privileg
 Plugins provide a way to extend the functionality of Myriad for a specific application or host. There are several different plugins that are commonly used and their configuration is listed below:
 
 HTTP URL Status Plugin 
-* Will automatically check the accessability of the URL provided and change the impact of the application. 
-*  `Monitor Status?` button will make Myriad poll the URL on regular intervals to ensure it can be reached. The website status will be displayed in the details pane when this is enabled. The
-*   `Create Failure Events?` checkbox will cause Myriad to automatically create an event that's status is down. By default the URL must be determined to be down three consecutive times before the event is created. The failure event causes the status of the whole application to go down so you can quickly identify and fix the problem. 
-*   Lastly you can change the impact the URL accessability has on the application if failure events are enabled. 
-*   You can also allow this plugin to appear in the home and environment screen as a main URL. 
+* Will automatically check the accessibility of the URL provided and change the impact of the application. 
+* `Monitor Status?` button will make Myriad poll the URL at regular intervals to ensure it can be reached. The website status will be displayed in the details pane when this is enabled. The
+* `Create Failure Events?` checkbox will cause Myriad to automatically create an event that's status is down. By default the URL must be determined to be down three consecutive times before the event is created. The failure event causes the status of the whole application to go down so you can quickly identify and fix the problem. 
+* Lastly you can change the impact the URL accessibility has on the application if failure events are enabled. 
+* You can also allow this plugin to appear in the home and environment screen as a main URL. 
 
 Plugins can be configured from the [Admin Pages](Admin-Pages.md)
 ---
