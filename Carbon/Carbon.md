@@ -1,10 +1,10 @@
  ![Carbon Infographic](Media/Carbon-Infographic.svg)
 ______
 ## Introduction
-Carbon is used to replicate CCB and MDM accounts, or convert from one to the other. It makes it easy to copy or create accounts in groups up to 100 making it easy to set up training and testing environments. You can replicate accounts to create completely new accounts complete with a unique account number, premise, everything new keys etc. Or you can replicate accounts to create identical copies of the account with all the same data.
+Carbon is used to replicate CCB and MDM accounts or convert from one to the other. It makes it easy to copy or create accounts in groups up to 100 making it easy to set up training and testing environments. You can replicate accounts to create completely new accounts including a unique account number, premise, new keys, etc. Or you can replicate accounts to create identical copies of the account with all the same data.
 
 ## Getting Started
-This documentation provides information on Carbon by Intellitect. 
+This documentation provides information on Carbon by IntelliTect. 
 ### Options and Configuration
 * Get familiarized with the [Application Home Screen](Application-Home.md)
 * Set up your application with [Admin Pages](Admin-Pages.md)

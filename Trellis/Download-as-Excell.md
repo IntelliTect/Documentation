@@ -1,16 +1,15 @@
-# Download an Excell File for a Snapshot or Change package
-While Trellis makes it easy to view and track changes in many different environments, not everyone has it available. Luckily you can share this data using Microsoft Excell files.
+# Download an Excel File for a Snapshot or Change package
+
+While Trellis makes it easy to view and track changes in many different environments, not everyone has it available. Luckily you can share this data using Microsoft Excel files.
 
 * Start by creating or viewing [a Comparison](Snapshot-Comparisons.md) or [Change Package](Change-Packages.md)
-* From the change package overview screen select the "Download Excell" button in the upper righthand corner of the header
+* From the change package overview screen select the `Download Excel` button in the upper right-hand corner of the header
 * Select the location to save
 
 Now you have a concise, easily transferable copy of all the changes.
 
-<img src="Media/Excell-Changes.png" width="600">
+<img src="Media/Excel-Changes.png" width="600">
 
-By selecting a table you can see specific row changes highlighted by change type. 
+By selecting a table you can see specific row changes highlighted by change type.
 
-<img src="Media/Excell-Table-Changes.png" width="600">
-
-
+<img src="Media/Excel-Table-Changes.png" width="600">
