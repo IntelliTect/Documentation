@@ -16,9 +16,9 @@ Trellis simplifies the process of managing OUAF configuration by:
 ### Options and Configuration
 There are tons of customizable options to test out that will allow Trellis to work well with any project.
 * [Application Home Screen](Application-Home.md)
-* [Create a Database](Admin-Pages.md#Setting-up-a-Database)
-* [Schedule Recurring Snapshots](Admin-Pages.md#Recurring-Snapshots) 
-* [Configure Snapshot-Enabled Tables](Admin-Pages.md#Schema-Table-Selector)
+* [Create a Database](Admin-Pages.md#setting-up-a-database)
+* [Schedule Recurring Snapshots](Admin-Pages.md#recurring-snapshots) 
+* [Configure Snapshot-Enabled Tables](Admin-Pages.md#schema-table-selector)
 * [Setup Email Subscriptions](Preferences.md)
   
 ### Compare
@@ -32,6 +32,6 @@ Trellis makes it a breeze to compare configuration snapshots between different e
 ### Migrate
 With Trellis, migrating changes is simple. it’s easy to create change packages that you can then migrate to any environment at any time. Trellis automatically creates a customizable package that will apply those changes or a subset of them to other selected environments.
 
-* [Use tokens for environment-specific data](Migrate/Use-Tokens.md)
-* [Apply changed packages](Use-A-Package.md#Migrating-to-a-target) 
-* [Rollback change packages](Use-A-Package.md#Undo-Packages)
+* [Use tokens for environment-specific data](Use-Tokens.md)
+* [Apply changed packages](Use-A-Package.md#migrating-to-a-target) 
+* [Rollback change packages](Use-A-Package.md#undo-packages)

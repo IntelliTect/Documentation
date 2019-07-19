@@ -2,7 +2,7 @@
 Replication jobs are the core of Carbon. They are jobs that perform all the account information fetching and create the replicated accounts. There are multiple ways to create new replication jobs but they all come down to finding an existing CCB or MDM account you want to replicate. Replication jobs are extremely useful for creating one or two replicated accounts, to replicate more see [uber jobs](Uber-Jobs.md).
 
 ## Creating a Replication Job
-To get started configuring a replication job, you must first select an account. The easiest way to find an account to start with is to use the [search](Application-Home.md#Search) feature from the home screen.
+To get started configuring a replication job, you must first select an account. The easiest way to find an account to start with is to use the [search](Application-Home.mdsearch) feature from the home screen.
 After you have selected an account to replicate you should see the start new run screen.
 <img src="Media/Replication-Job.png">
 

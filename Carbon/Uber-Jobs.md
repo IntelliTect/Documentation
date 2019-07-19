@@ -16,6 +16,6 @@ The Starting keys section is used to enter the source account numbers, and the n
 ### Starting the job
 After you have saved the settings, you will be navigated to the start job screen. You can also select details for the Uber Job from the jobs list in the main Uber Jobs section. 
 
-Here you will be presented the start new job screen. At the top left you can see the name, and the number of jobs in this uber job. The main section is where you select the run type, copy mode, and the number of copies for each account. For more information on the details in this section see [replication jobs](Replication-Jobs.md#Start-New-Run). When you select Start Run, the jobs section will display real time details on the jobs being ran. Its likely that replicating many jobs will take some time to complete.
+Here you will be presented the start new job screen. At the top left you can see the name, and the number of jobs in this uber job. The main section is where you select the run type, copy mode, and the number of copies for each account. For more information on the details in this section see [replication jobs](Replication-Jobs.md#start-new-run). When you select Start Run, the jobs section will display real time details on the jobs being ran. Its likely that replicating many jobs will take some time to complete.
 <img src="Media/Uber-Jobs-Start-Run.png">
 

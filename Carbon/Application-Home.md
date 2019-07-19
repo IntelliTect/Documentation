@@ -3,7 +3,7 @@ The application home screen is divided in several main sections. header, teams, 
 ![Home Screen](Media/Application-Overview.png)
 
 ## Header
-The header is used to show the current screen you are on as well as access some of the features and options in Carbon. You can navigate to your jobs, [Uber Jobs](Uber-Jobs.md), [Schema Explorer](Schema-Explorer.md), [Admin Pages](Admin-Pages.md), and [Hangfire](Admin-Pages.md#Hangefire). There is also a Swagger generated webpage showing the complete API of Carbon, as well as help documentation. 
+The header is used to show the current screen you are on as well as access some of the features and options in Carbon. You can navigate to your jobs, [Uber Jobs](Uber-Jobs.md), [Schema Explorer](Schema-Explorer.md), [Admin Pages](Admin-Pages.md), and [Hangfire](Admin-Pages.md#hangefire). There is also a Swagger generated webpage showing the complete API of Carbon, as well as help documentation. 
 
 ## Teams
 Teams are used to segregate the accounts within the application. You cannot see accounts in a team if you are not part of that team. 

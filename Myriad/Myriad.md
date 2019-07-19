@@ -10,15 +10,15 @@ This documentation provides information on Myriad by Intellitect.
 * Get familiarized with the [Status Overview](Status-Overview.md)
 * Viewing [Environments](Environments.md)
 * How to use [Applications](Applications.md)
-* About [Event Details](Preferences.md)
+* About [Event Details](events.md)
 * [Chat](Chat.md) with the team
 * Configure your [User Preferences](Preferences.md)
 
 
 ## Administrator Tools and Options
 * View events and phases with the [Timeline](Timeline.md)
-* [Event Planning](Events.md#Event-Planning-and-Tasks) 
-* View applications by environment and work items [Application Types](Application-Types.md#Applications-by-Environment)
+* [Event Planning](Events.md#event-planning-and-tasks) 
+* View applications by environment and work items [Application Types](Application-Types.md#applications-by-environment)
 * Setup and configure Myriad using the [Admin Pages](Admin-Pages.md)
 * Connect other applications using [Event APIs](Event-APIs.md)
 * Link and assign TFS/Azure [Work Items]()

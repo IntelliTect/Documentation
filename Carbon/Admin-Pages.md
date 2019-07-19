@@ -15,7 +15,6 @@ This section shows a list of already defined replication procedures. By clicking
 The manage database section you can add or edit CCB and MDM databases for each environment that are created.
 
 ---
----
 ## Configure Replication Procedure
 In this section you can change the relationships between the source account and the replicated account. For each of the items in the account you can choose to Ignore, Replicate, Parent Only, Children Only. Parent Only will only replicate this data if the replication is going from a child account to a parent. Child Only is when the replication goes from a parent account to a child account.
 For each of the items here you can expand to see that specific items children and configure their replication properties. You can also leave notes on specific items if desired. 

@@ -1,5 +1,5 @@
 # Applications
-Applications are the whole reason we use Myriad. Applications are the projects that need to be completed. You can set up [Events and Tasks](Events.md) that lets you manage the who, what, and when of the production process. You can see its history, and previously completed events, and impact. To create a new application you first need to have an [Application Type](Application-Types.md) and then create the new application in the [Admin Pages](Admin-Pages.md#Applications).
+Applications are the whole reason we use Myriad. Applications are the projects that need to be completed. You can set up [Events and Tasks](Events.md) that lets you manage the who, what, and when of the production process. You can see its history, and previously completed events, and impact. To create a new application you first need to have an [Application Type](Application-Types.md) and then create the new application in the [Admin Pages](Admin-Pages.md#applications).
 
 ---
 ## Application Screen
