@@ -1,0 +1,25 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+entries:
+- title: sidebar
+  product: Intellitect Documentation
+  folders:
+  - title: Overview
+    output: web
+    folderitems:
+    - title: Products Overview
+      url: Index.html
+      output: web
+
+  - title: Products
+    output: web
+    folderitems:
+      - title: Carbon
+        url: Carbon/Index.html
+        output: web
+      - title: Trellis
+        url: Trellis/Index.html
+        output: web
+      - title: Myriad
+        url: Myriad/Index.html
+        output: web
+

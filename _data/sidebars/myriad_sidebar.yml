@@ -1,0 +1,68 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Myriad
+  version: 1.0
+  folders:
+
+  - title: Introduction
+    output: web
+    folderitems:
+    - title: Introduction
+      url: Index.html
+      output: web
+
+  - title: Getting Started
+    output: web
+    folderitems:
+    - title: Status Overview
+      url: Status-Overview.html
+      output: web
+
+    - title: Environments
+      url: Environments.html
+      output: web
+
+    - title: Applications
+      url: Applications.html
+      output: web
+
+    - title: Event Details
+      url: Events.html
+      output: web
+   
+    - title: Chat
+      url: Chat.html
+      output: web
+
+    - title: User Preferences
+      url: Preferences.html
+      output: web
+
+
+  - title: Administrator Tools and Options
+    output: web
+
+    folderitems:
+    - title: Admin Pages
+      url: Admin-Pages.html
+      output: web
+
+    - title: Event Planning
+      url: Events.html#Event-Planning-and-Tasks
+      output: web
+
+    - title: Application Types
+      url: Application-Types.html
+      querystring: "#applications-by-environment"
+      output: web
+
+    - title: Timeline
+      url: Timeline.html
+      output: web
+
+    - title: Event APIs
+      url: Event-APIs.html
+      output: web

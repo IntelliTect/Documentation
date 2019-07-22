@@ -1,0 +1,42 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Carbon
+  version: 1.0
+  folders:
+
+  - title: Introduction
+    output: web
+    folderitems:
+    - title: Introduction
+      url: Index.html
+      output: web
+
+  - title: Getting Started
+    output: web
+    folderitems:
+    - title: Application Home
+      url: Application-Home.html
+      output: web
+
+    - title: Replication Jobs
+      url: Replication-Jobs.html
+      output: web
+
+    - title: Uber Jobs
+      url: Uber-Jobs.html
+      output: web
+
+  - title: Options and Configuration
+    output: web
+
+    folderitems:
+    - title: Admin Pages
+      url: Admin-Pages.html
+      output: web
+
+    - title: Schema Explorer
+      url: Schema-Explorer.html
+      output: web

@@ -1,0 +1,82 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Trellis
+  version: 1.0
+  folders:
+
+  - title: Introduction
+    output: web
+    folderitems:
+    - title: Introduction
+      url: Index.html
+      output: web
+
+    - title: Home Screen
+      url: Application-Home.html
+      output: web
+      
+  - title: Comparisons
+    output: web
+    folderitems:
+    - title: Create Snapshot Comparison
+      url: Snapshot-Comparisons.html
+      output: web
+
+    - title: Create Change Package
+      url: Change-Packages.html
+      output: web
+
+    - title: Export as Excel File
+      url: Download-as-Excell.html
+      output: web
+
+    - title: Export to SQL
+      url: Download-Tokenized-Sql.html
+      output: web
+
+  - title: Migrate
+    output: web
+    folderitems:
+    
+    - title: Use tokens for environment-specific data
+      url: Use-Tokens.html
+      output: web
+
+    - title: Using Packages
+      url: Use-A-Package.html
+      output: web
+
+    - title: Apply Changed Packages
+      url: Use-A-Package.html#migrating-to-a-target
+      output: web
+
+    - title: Rollback Change Packages
+      url: Use-A-Package.html#undo-packages
+      output: web
+
+  - title: Options and Configuration
+    output: web
+
+    folderitems:
+    - title: Admin Pages
+      url: Admin-Pages.html
+      output: web
+
+    - title: Create a Database
+      url: Admin-Pages.html#setting-up-a-database
+      output: web
+
+    - title: Schedule Recurring Snapshots
+      url: Admin-Pages.html#recurring-snapshots
+      output: web
+
+    - title: Configure Snapshot-Enabled Tables
+      url: Admin-Pages.html#schema-table-selector
+      output: web
+
+    - title: Setup Email Subscriptions
+      url: Preferences.html
+      output: web
