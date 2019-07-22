@@ -17,7 +17,7 @@ Teams are used to segregate the accounts within the application. You cannot see 
 The number of runs in the queue is displayed in this section. It provides an easy way to see how many jobs need to be completed before a new one can start. 
  
 ## Jobs 
-The jobs section allows you to navigate to 'Replication' or 'Uber Jobs'. Click [here](TODO) to learn more about jobs.  
+The jobs section allows you to navigate to 'Replication' or 'Uber Jobs'. Click [here](Replication-Jobs.md) to learn more about jobs.  
  
 ## Search 
 In the lower left-hand corner of the screen, the 'Search' section allows you to search for accounts using account numbers, job names, descriptions, or keys, etc. It is an easy way to find a specific account and access it quickly. 

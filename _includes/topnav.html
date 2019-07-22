@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand noCrossRef" href="https://intellitect.com">
-                <img src="{{site.site_deployed_url}}/Intellitect-Logo-Nav.png" alt="Intellitect Logo" style="height: 3rem;"> 
+                <img src="{{site.site_deployed_url}}/Intellitect-Logo.png" alt="Intellitect Logo" style="height: 3rem;"> 
             </a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -71,7 +71,7 @@
                             SimpleJekyllSearch.init({
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
-                                dataSource: '{{site.site_deployed_url}}/search.json" }}',
+                                dataSource: "{{site.site_deployed_url}}/search.json",
                                 searchResultTemplate: '<li><a href="{url}" title="{{page.title | escape }}">{title}</a></li>',
                     noResultsText: '{{site.data.strings.search_no_results_text}}',
                             limit: 10,

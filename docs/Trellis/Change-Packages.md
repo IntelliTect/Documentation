@@ -69,5 +69,5 @@ Notice we are looking at different data than the [initial comparison](#Changed-P
  
 ## Using the Change Package 
  
-Now that we have a change package saved you can [Use the Package]() TODO as if it were any other snapshot. The change package is also accessible from the 'Changed Packages' section of the application overview. 
+Now that we have a change package saved you can [Use the Package](Use-A-Package.md) as if it were any other snapshot. The change package is also accessible from the 'Changed Packages' section of the application overview. 
 

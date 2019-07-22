@@ -40,7 +40,7 @@ To create an undo package all we have to do is open the specified change package
  
 # Downloading a Snapshot 
  
-Trellis allows you to download snapshots and packages. You can access the download menu from the header on any of the pages. When you open it you will be shown a list of databases, snapshots, and tables. you can download these as a TODO file. 
+Trellis allows you to download snapshots and packages. You can access the download menu from the header on any of the pages. When you open it you will be shown a list of databases, snapshots, and tables. you can download these as a CSV file. 
  
 <img src="Media/Use-Package-Download-Snapshots.png" width="600"> 
 
