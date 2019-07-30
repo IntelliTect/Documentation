@@ -18,7 +18,7 @@ The 'Header' is used to show the current screen you are on and to access some of
 The number of runs in the queue is displayed in this section. It provides an easy way to see how many jobs need to be completed before a new one can start. 
  
 ## Jobs 
-The 'Jobs' section allows you to navigate to [Replication Job](Replication-Jobs.md) or [Uber Jobs](Uber-Jobs.md). Click [here](Replication-Jobs.md) to learn more about jobs.  
+The 'Jobs' section allows you to navigate to [Replication Job](Replication-Jobs.md) or [Uber Jobs](Uber-Jobs.md).
  
 ## Search 
 In the lower left-hand corner of the screen, the 'Search' section allows you to search for accounts using account numbers, job names, descriptions, keys, etc. It's an easy way to find a specific account and access it quickly. 
