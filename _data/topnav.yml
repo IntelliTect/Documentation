@@ -3,6 +3,8 @@
 topnav:
 - title: Topnav
   items:
+    - title: Intellitect
+      external_url: https://intellitect.com
     - title: Intellitect Blogs
       external_url: https://intellitect.com/blog
 
