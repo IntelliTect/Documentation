@@ -20,7 +20,7 @@ This documentation provides information on Carbon by IntelliTect.
 * Explore the database with [Schema Explorer](Schema-Explorer.md) 
  
  
-### Replicating accounts 
+### Replicating Accounts 
 * Copy single accounts with [Replication Jobs](Replication-Jobs.md) 
 * Copy many accounts with [Uber Jobs](Uber-Jobs.md) 
 
