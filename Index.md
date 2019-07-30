@@ -14,7 +14,7 @@ permalink: docs/Index.html
  
 |[Trellis](docs/Trellis/Index.md)| | 
 | ----- | ----- | 
-|[<img alt="Trellis-Logo" src="Trellis/Media/Trellis-Logo.png" style="width:300px">](docs/Trellis/Index.md)| Trellis is a web-based configuration tool designed for large enterprise applications. It allows users to track and affect change within and between environments in an efficient manner while limiting human errors—at the click of a button. Additionally, snapshots of the configuration data are periodically recorded and users can be alerted if changes are made. <br/><br/> With Trellis, Managing configurations no longer has to be a time consuming and error-prone process. It's a valuable addition to any team using CCB or MDM. <br/><br/> [Learn More](docs/Trellis/Index.md) | 
+|[<img alt="Trellis-Logo" src="Trellis/Media/Trellis-Logo.png" style="width:300px">](docs/Trellis/Index.md)| Trellis is a web-based configuration tool designed for large enterprise applications. It allows users to track and affect change within and between environments in an efficient manner while limiting human errors—at the click of a button. Additionally, snapshots of the configuration data are periodically recorded, and users can be alerted if changes are made. <br/><br/> With Trellis, Managing configurations no longer has to be a time consuming and error-prone process. It's a valuable addition to any team using CCB or MDM. <br/><br/> [Learn More](docs/Trellis/Index.md) | 
  
 |[Myriad](docs/Myriad/Index.md)| | 
 | ----- | ----- | 
