@@ -10,6 +10,7 @@ Events are the core of Myriad. They allow users to coordinate when things will h
  
 ## Viewing Events 
 To view an event simply click it from the location you see it. Here is where you can configure events.  
+
 <img src="Media/Events-View.png" width="400"> 
  
 --- 

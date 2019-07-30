@@ -6,6 +6,7 @@ permalink: docs/Carbon/Index.html
 
  
  ![Carbon Infographic](Media/Carbon-Infographic.svg) 
+ 
 ---
 
 ## Introduction 

@@ -9,6 +9,7 @@ permalink: docs/Carbon/Admin-Pages.html
 The admin pages are used to view and configure the supporting data for Carbon. Here you can configure environments as well as add databases, teams, users, and much more. 
  
 ## Overview 
+
 <img alt="Trellis-Logo" src="Media/Admin-Page.png"> 
  
 ### Options 
@@ -25,6 +26,7 @@ Inside the manage database section, you can add or edit CCB and MDM databases fo
 ## Configure Replication Procedure 
 In this section, you can change the relationships between the source account and the replicated account. For each of the items in the account you can choose: Ignore, Replicate, Parent Only, or Children Only. 'Parent Only' will only replicate this data if the replication is going from a child account to a parent. 'Child Only' is when the replication goes from a parent account to a child account. 
 For each of the items here, you can expand to see that specific item's children and configure their replication properties. You can also leave notes on specific items if desired.  
+
 <img src="Media/Replication-Procedure-Configuration.png"> 
  
 --- 

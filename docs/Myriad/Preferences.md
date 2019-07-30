@@ -27,9 +27,6 @@ For the item you want notifications from you can select:
 * Any applications in a specific environment 
 * A specific application in any environment 
 * A specific application in a specific environment  
- 
- 
- 
- 
+
 <img src="Media/Preferences.png"> 
 

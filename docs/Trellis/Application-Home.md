@@ -8,6 +8,7 @@ permalink: docs/Trellis/Application-Home.html
 # Home Screen 
  
 The home screen for your application is where almost all the work starts. Here you can take and compare snapshots as well as view, search, and change packages. 
+
 <img src="Media/Application-Overview.png"> 
  
 ## Header 
@@ -20,7 +21,8 @@ Here is a list of all the databases you have configured for your application. Ba
  
 ## Tools 
  
-This section contains some basic tools that may come in handy. The [manage tokens](Use-Tokens.md) tool allows you to add and remove tokens for environment-specific data. The search tool allows you to search for any changes that have occurred. The 'Data Search' input will search for tables, column names, and values anywhere in the database. The 'Table Filter' can be used to search within the specified table. 'Database Filter' lets you search within the selected database. The date inputs let you set the start and end dates to constrain the search. The results show the change made, the person who authored the change, the date, and the package that caused this change.   
+This section contains some basic tools that may come in handy. The [manage tokens](Use-Tokens.md) tool allows you to add and remove tokens for environment-specific data. The search tool allows you to search for any changes that have occurred. The 'Data Search' input will search for tables, column names, and values anywhere in the database. The 'Table Filter' can be used to search within the specified table. 'Database Filter' lets you search within the selected database. The date inputs let you set the start and end dates to constrain the search. The results show the change made, the person who authored the change, the date, and the package that caused this change.  
+ 
 <img src="Media/Application-Overview-Search.png"> 
  
 ## Compare Snapshots 

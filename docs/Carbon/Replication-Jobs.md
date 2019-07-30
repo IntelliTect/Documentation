@@ -11,6 +11,7 @@ permalink: docs/Carbon/Replication-Jobs.html
 ## Creating a Replication Job 
 To get started configuring a replication job, you must first select an account. The easiest way to find an account to start with is to use the [search](Application-Home.md#search) feature from the home screen. 
 After you have selected an account to replicate you should see the 'Start New Run' screen. 
+
 <img src="Media/Replication-Job.png"> 
  
 --- 

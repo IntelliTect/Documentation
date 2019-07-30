@@ -30,7 +30,7 @@ Select the source and target databases you want to compare, then select the part
  
 | Source Snapshot | Target Snapshot | 
 | --- | --- | 
-| <img src="Media/Compare-Snapshots.png"> | <img src="Media/Compare-Snapshots-Target.png"> |  
+| <img src="Media/Compare-Snapshots.png" style="width: 400px"> | <img src="Media/Compare-Snapshots-Target.png" style="width: 400px"> |  
 | The source snapshot is the state of data you want to keep. This the newer snapshot of the two. | The target snapshot is the state of data you want to compare against. | 
  
 --- 

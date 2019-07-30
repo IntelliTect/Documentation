@@ -13,6 +13,7 @@ The admin pages are used to view and configure support data for Trellis. Here yo
  
 To open the admin page click the `Admin Pages` button from the upper right-hand corner of the applications page. 
 You are greeted with a list of options each of which has a 'Table' and 'Cards' column. 'Table' is used to configure Trellis for use on a desktop, and 'Cards' are used to configure Trellis for use on a mobile device. 
+
 <img src="Media/Admin-Page-Overview.png"> 
  
 --- 
@@ -45,11 +46,13 @@ The Trellis 'Schema Table Selector' allows you to configure which tables in a da
  <img src="Media/Schema-Table-Selector-Schema-Select.png"> 
  
 Next, select a database from the dropdown. A list of tables in the selected database will appear. You can enable or disable these tables. If a table is enabled, it will be used in both automatic and manually triggered snapshots. 
+
 <img src="Media/Schema-Table-Selector-Enabling.png"> 
  
 # Hangfire 
  
 Hangfire is used to run the underlying Trellis jobs accessed off the admin pages. You can use this screen to view all jobs, recurring jobs, and failed jobs. You can also view a history graph of previously run jobs. 
 If you select the 'Recurring Jobs' tab, you can view all the jobs that have been scheduled as well as helpful relevant information. 
+
 <img src="Media/Hangfire-Recurring-Jobs.png"> 
 

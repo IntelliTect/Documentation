@@ -2,6 +2,10 @@ body {
     font-size:15px;
 }
 
+th > a {
+    color: blue
+}
+
 .bs-callout {
     padding: 20px;
     margin: 20px 0;

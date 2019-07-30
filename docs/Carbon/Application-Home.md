@@ -7,6 +7,7 @@ permalink: docs/Carbon/Application-Home.html
  
 # Application Home Overview 
 The application home screen is divided into several main sections: Header, Teams, Jobs, Search, and Recent Runs. 
+
 ![Home Screen](Media/Application-Overview.png) 
  
 ## Header 
