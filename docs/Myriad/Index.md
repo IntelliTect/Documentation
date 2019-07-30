@@ -17,7 +17,7 @@ This documentation provides information on Myriad by IntelliTect.
 * Get familiarized with the [Status Overview](Status-Overview.md) 
 * Viewing [Environments](Environments.md) 
 * How to use [Applications](Applications.md) 
-* About [Event Details](events.md) 
+* About [Event Details](Events.md) 
 * [Chat](Chat.md) with the team 
 * Configure your [User Preferences](Preferences.md) 
  
