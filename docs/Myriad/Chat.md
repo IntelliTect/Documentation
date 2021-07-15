@@ -1,5 +1,5 @@
 ---
-title: "Chat"
+title: "Myriad Chat"
 sidebar: myriad_sidebar
 permalink: docs/Myriad/Chat.html
 ---
