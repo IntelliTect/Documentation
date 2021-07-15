@@ -1,5 +1,5 @@
 ---
-title: "Environments"
+title: "Myriad Environments"
 sidebar: myriad_sidebar
 permalink: docs/Myriad/Environments.html
 ---
