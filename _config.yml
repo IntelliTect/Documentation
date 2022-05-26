@@ -1,7 +1,7 @@
 site_deployed_url: /Documentation 
 # this property is used to fix issues caused by deploying on github without a custom/sub domain. Instead of the root of the website being after the .com,  
 # its after .com/repo-name/ which causes absolute paths to incorrectly navigate.
-baseurl: https://intellitect.github.io/Documentation/docs/Index.html
+
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
