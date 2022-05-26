@@ -1,4 +1,4 @@
-# site_deployed_url: /Documentation 
+site_deployed_url: /Documentation 
 # this property is used to fix issues caused by deploying on github without a custom/sub domain. Instead of the root of the website being after the .com,  
 # its after .com/repo-name/ which causes absolute paths to incorrectly navigate.
 
