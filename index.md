@@ -1,6 +1,6 @@
 ---
-redirect_from: "/Index.html"
-title: "Index"
+redirect_from: "/index.html"
+title: "index"
 sidebar: home_sidebar
 permalink: docs/index.html
 ---
