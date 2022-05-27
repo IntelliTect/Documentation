@@ -1,8 +1,8 @@
 ---
 redirect_from: "/index.html"
-title: "Index"
+title: "index"
 sidebar: home_sidebar
-permalink: docs/Index.html
+permalink: docs/index.html
 ---
 
  
