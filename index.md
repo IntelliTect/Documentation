@@ -3,7 +3,6 @@ redirect_from: "/Index.html"
 title: "Index"
 sidebar: home_sidebar
 permalink: docs/Index.html
-layout: default
 ---
 
  
